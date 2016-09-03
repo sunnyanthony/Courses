@@ -11,16 +11,4 @@ About my learning
 * [Coursera](#section2)
   * [Functional Programming Principles in Scala](#section21)
 
-<h2 id="section1"> NTHU Courses </h2>
-<h3 id="section11"> VLSI System Design and Implementation </h3>
-<h3 id="section12"> Computer Architecture </h3>
-<h3 id="section13"> Virtualization and Virtual Machines </h3>
-<h3 id="section14"> Digital Signal Processing </h3>
-<h3 id="section15"> Parallel Programming </h3>
-<h3 id="section16"> Advanced UNIX Programming </h3>
-
-
-
-<h2 id="section2"> Coursera courses </h2>
-<h3 id="section21"> Functional Programming Principles in Scala </h3>
 
