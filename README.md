@@ -3,8 +3,8 @@ About my learning
 
 * [NTHU](#section1)
   * [VLSI System Design and Implementation](https://github.com/sunnyanthony/_Courses/tree/master/VLSI%20System%20Design%20and%20Implementation)
-  *  [Computer Architecture](https://github.com/sunnyanthony/_Courses/tree/master/Computer%20Architecture)
-  *  [Operating System gitbook](https://sunnyanthony.gitbooks.io/operating-system-concept/content/)
+  * [Computer Architecture](https://github.com/sunnyanthony/_Courses/tree/master/Computer%20Architecture)
+  * [Operating System gitbook](https://sunnyanthony.gitbooks.io/operating-system-concept/content/)
   * [Virtualization and Virtual Machines](#section11)
   * [Digital Signal Processing](#section11)
   * [Parallel Programming](#section11)
